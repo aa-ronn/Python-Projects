@@ -3,4 +3,4 @@ From the [100 Days of Python Course](https://www.100daysofpython.dev/)
 1. Band Name Generator [Try it on repl](https://repl.it/@aaronn2/day-1-band-name-generator#main.py)
 2. Tip Calculator [Try it on repl](https://repl.it/@aaronn2/tip-calculator#main.py)
 3. Treasure or Maiden Text Adventure [Try it on repl](https://repl.it/@aaronn2/treasure-island-start#main.py)
-
+4. Rock, Paper, Scissors [Try it on repl](https://repl.it/@aaronn2/rock-paper-scissors#main.py)
