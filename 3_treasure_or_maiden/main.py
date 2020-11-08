@@ -237,5 +237,4 @@ else:
       else:
         print(maiden)
         print("You arrive at the tall tower. The pegasus takes you up to the top. A beautiful maiden awaits you. You begin to get off the pegasus, your foot slips, you begin to fall, your chin hits the rail of the balcony, you black out...\n\n")
-        time.sleep(2000)
         print("Well that is unfortunate...")
