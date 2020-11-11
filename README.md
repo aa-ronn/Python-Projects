@@ -5,3 +5,6 @@ From the [100 Days of Python Course](https://www.100daysofpython.dev/)
 3. Treasure or Maiden Text Adventure [Try it on repl](https://repl.it/@aaronn2/treasure-island-start#main.py)
 4. Rock, Paper, Scissors [Try it on repl](https://repl.it/@aaronn2/rock-paper-scissors#main.py)
 5. Password Generator [Try it on repl](https://repl.it/@aaronn2/password-generator-start)
+6. Reeborg Maze [Try it on Reeborg](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+
+
