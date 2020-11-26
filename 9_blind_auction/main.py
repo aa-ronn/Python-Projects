@@ -10,7 +10,7 @@ more_bidders = ""
 
 print("Welcome to the secret auction program.")
 name = input("What is your name?: ")
-bid = int(input("What is your bid?: "))
+bid = int(input("What is your bid?: $"))
 bids[name] = bid
 more_bidders = input("Are there any other bidders? Type 'yes' or 'no'\n").lower()
 if more_bidders == 'y' or more_bidders == 'yes':
